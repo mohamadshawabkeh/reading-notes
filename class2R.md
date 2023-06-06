@@ -40,5 +40,9 @@ Ans: We initialize express.Router() by creating an instance of it using const ro
 
 Ans: Route middleware in Express is used to perform operations on the incoming request or response objects, modify them, or execute additional logic before or after the route handler is invoked, providing a way to add custom functionality to specific routes.
 
+ *  What are your learning goals after reading and reviewing the class README?
+
+Ans: learning about classes and its main form, and reviewing express routing 
+
 
  ### return to [Main Read Me File](./README.md)
