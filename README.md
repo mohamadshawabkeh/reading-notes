@@ -1,7 +1,12 @@
-#Reading Notes
-* its a Repo to conclusion the reads for the read classes 
-## Code 102 - Intro to Software Development *finished
-## Code 201 - Foundations of Software Development *finished
-## Code 301 - Intermediate Software Development *finished
-## Code 401 - Advanced Software Development - taking now
- ** now in advanced level **
+# Read Of Class 2
+
+
+Table of contents:
+
+
+1. Node Ecosystem
+2. Express, NPM, TDD, CI/CD
+3. Data Structures and Algorithms
+4. Express REST API
+
+### [Go to read page](./class2R.md)
