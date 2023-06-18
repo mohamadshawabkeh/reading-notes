@@ -10,4 +10,5 @@ Table of Contents:
 | 4.  | ES6 Classes, Using + Express Routing      | [Go to read page](./class2R.md)               |
 | 5.  | Linked Lists                              | [Go to read page](./class3LinkedLists.md)     |
 | 6.  | Reading Modeling                          | [Go to read page](./class3ReadingModeling.md) |
+| 7.  | Authentication                            | [Go to read page](./class6Hash)               |
 
