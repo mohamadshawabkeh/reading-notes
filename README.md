@@ -11,4 +11,6 @@ Table of Contents:
 | 5.  | Linked Lists                              | [Go to read page](./class3LinkedLists.md)     |
 | 6.  | Reading Modeling                          | [Go to read page](./class3ReadingModeling.md) |
 | 7.  | Authentication                            | [Go to read page](./class6Hash)               |
+| 7.  | Bearer Authorization                      | [Go to read page](./class07.md)               |
+
 
