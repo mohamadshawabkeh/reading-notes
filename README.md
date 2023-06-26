@@ -13,6 +13,7 @@ Table of Contents:
 | 7.  | Authentication                            | [Go to read page](./class6Hash)               |
 | 8.  | Bearer Authorization                      | [Go to read page](./class07.md)               |
 | 9.  | Access Control (ACL)                      | [Go to read page](./class08.md)               |
+| 10. | Authorization/Authentication              | [Go to read page](./class09.md)               |
 
 
 
