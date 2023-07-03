@@ -14,7 +14,5 @@ Table of Contents:
 | 8.  | Bearer Authorization                      | [Go to read page](./class07.md)               |
 | 9.  | Access Control (ACL)                      | [Go to read page](./class08.md)               |
 | 10. | Authorization/Authentication              | [Go to read page](./class09.md)               |
-| 11. | Stacks and Queues                         | [Go to read page](./class010.md)              |
-
-
-
+| 11. | Stacks and Queues                         | [Go to read page](./class10.md)               |
+| 12. | Event Driven Applications                 | [Go to read page](./class11.md)               |
