@@ -16,3 +16,5 @@ Table of Contents:
 | 10. | Authorization/Authentication              | [Go to read page](./class09.md)               |
 | 11. | Stacks and Queues                         | [Go to read page](./class10.md)               |
 | 12. | Event Driven Applications                 | [Go to read page](./class11.md)               |
+| 13. | Socket.io                                 | [Go to read page](./class12.md)               |
+
