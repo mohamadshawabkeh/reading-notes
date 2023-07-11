@@ -18,5 +18,6 @@ Table of Contents:
 | 12. | Event Driven Applications                 | [Go to read page](./class11.md)               |
 | 13. | Socket.io                                 | [Go to read page](./class12.md)               |
 | 14. | Message Queues                            | [Go to read page](./class13.md)               |
+| 15. | Event Driven Architecture                 | [Go to read page](./class14.md)               |
 
 
