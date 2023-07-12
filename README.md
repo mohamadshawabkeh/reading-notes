@@ -19,5 +19,6 @@ Table of Contents:
 | 13. | Socket.io                                 | [Go to read page](./class12.md)               |
 | 14. | Message Queues                            | [Go to read page](./class13.md)               |
 | 15. | Event Driven Architecture                 | [Go to read page](./class14.md)               |
+| 16. | Implementation: Trees                     | [Go to read page](./class15.md)               |
 
 
