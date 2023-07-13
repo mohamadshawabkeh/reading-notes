@@ -20,5 +20,6 @@ Table of Contents:
 | 14. | Message Queues                            | [Go to read page](./class13.md)               |
 | 15. | Event Driven Architecture                 | [Go to read page](./class14.md)               |
 | 16. | Implementation: Trees                     | [Go to read page](./class15.md)               |
+| 17. | AWS: Cloud Servers                        | [Go to read page](./class16.md)               |
 
 
