@@ -21,5 +21,6 @@ Table of Contents:
 | 15. | Event Driven Architecture                 | [Go to read page](./class14.md)               |
 | 16. | Implementation: Trees                     | [Go to read page](./class15.md)               |
 | 17. | AWS: Cloud Servers                        | [Go to read page](./class16.md)               |
+| 18. | AWS: S3 and Lambda                        | [Go to read page](./class17.md)               |
 
 
