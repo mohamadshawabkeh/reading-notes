@@ -23,5 +23,6 @@ Table of Contents:
 | 17. | AWS: Cloud Servers                        | [Go to read page](./class16.md)               |
 | 18. | AWS: S3 and Lambda                        | [Go to read page](./class17.md)               |
 | 19. | AWS: Events                               | [Go to read page](./class18.md)               |
+| 20. | AWS: API, Dynamo and Lambda               | [Go to read page](./class19.md)               |
 
 
