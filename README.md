@@ -24,5 +24,6 @@ Table of Contents:
 | 18. | AWS: S3 and Lambda                        | [Go to read page](./class17.md)               |
 | 19. | AWS: Events                               | [Go to read page](./class18.md)               |
 | 20. | AWS: API, Dynamo and Lambda               | [Go to read page](./class19.md)               |
+| 21. | Component Based UI                        | [Go to read page](./class20.md)               |
 
 
