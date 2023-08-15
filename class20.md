@@ -51,3 +51,7 @@
 
 **Question**: After React has updated the DOM, what still needs to happen before the user sees the change?
 **Answer**: After React updates the DOM, the browser's layout and painting processes need to occur before the user sees the actual changes. This involves calculating element positions and rendering them on the screen.
+
+
+
+### return to [Main Read Me File](./README.md)
