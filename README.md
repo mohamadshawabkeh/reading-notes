@@ -26,5 +26,6 @@ Table of Contents:
 | 20. | AWS: API, Dynamo and Lambda               | [Go to read page](./class19.md)               |
 | 21. | Component Based UI                        | [Go to read page](./class20.md)               |
 | 22. | useState() Hook                           | [Go to read page](./class21.md)               |
+| 23. | useEffect Hook                            | [Go to read page](./class22.md)               |
 
 
