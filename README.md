@@ -27,5 +27,6 @@ Table of Contents:
 | 21. | Component Based UI                        | [Go to read page](./class20.md)               |
 | 22. | useState() Hook                           | [Go to read page](./class21.md)               |
 | 23. | useEffect Hook                            | [Go to read page](./class22.md)               |
+| 24. | Advanced State with Reducers              | [Go to read page](./class23.md)               |
 
 
