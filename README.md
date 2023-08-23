@@ -28,5 +28,6 @@ Table of Contents:
 | 22. | useState() Hook                           | [Go to read page](./class21.md)               |
 | 23. | useEffect Hook                            | [Go to read page](./class22.md)               |
 | 24. | Advanced State with Reducers              | [Go to read page](./class23.md)               |
+| 25. | Hash Tables                               | [Go to read page](./class24.md)               |
 
 
