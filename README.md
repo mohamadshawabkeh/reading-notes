@@ -31,5 +31,7 @@ Table of Contents:
 | 25. | Hash Tables                               | [Go to read page](./class24.md)               |
 | 26. | Context API                               | [Go to read page](./class25.md)               |
 | 27. | Context API - Behaviors                   | [Go to read page](./class26.md)               |
+| 28. | <Login /> and <Auth />                    | [Go to read page](./class27.md)               |
+| 29. | API Integration                           | [Go to read page](./class28.md)               |
 
 
