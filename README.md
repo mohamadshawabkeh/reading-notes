@@ -34,5 +34,6 @@ Table of Contents:
 | 28. | <Login /> and <Auth />                    | [Go to read page](./class27.md)               |
 | 29. | API Integration                           | [Go to read page](./class28.md)               |
 | 30. | Application State with Redux              | [Go to read page](./class29.md)               |
+| 31. | Graphs                                    | [Go to read page](./class30.md)               |
 
 
