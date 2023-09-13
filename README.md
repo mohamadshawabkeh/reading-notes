@@ -36,5 +36,6 @@ Table of Contents:
 | 30. | Application State with Redux              | [Go to read page](./class29.md)               |
 | 31. | Graphs                                    | [Go to read page](./class30.md)               |
 | 32. | Graphs                                    | [Go to read page](./class31.md)               |
+| 33. | Graphs                                    | [Go to read page](./class32.md)               |
 
 
