@@ -37,5 +37,6 @@ Table of Contents:
 | 31. | Graphs                                    | [Go to read page](./class30.md)               |
 | 32. | Graphs                                    | [Go to read page](./class31.md)               |
 | 33. | Graphs                                    | [Go to read page](./class32.md)               |
+| 34. | Redux - Additional Topics                 | [Go to read page](./class33.md)               |
 
 
